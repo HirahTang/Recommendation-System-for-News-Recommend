@@ -3,8 +3,10 @@ Solution for the Data Competition News Recommendation for Recommendation Newbies
 
 ## Nov. 25th. 2020
 
-Data Camp Linkage for this competition:
+#### Data Camp Linkage for this competition:
+
 http://datawhale.club/t/topic/213
 
-Competition Link:
+#### Competition Link:
+
 https://tianchi.aliyun.com/competition/entrance/531842/information
